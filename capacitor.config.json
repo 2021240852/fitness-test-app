@@ -1,0 +1,12 @@
+{
+  "appId": "com.fitness.test",
+  "appName": "体质健康测试",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#3b82f6"
+    }
+  }
+}
